@@ -5,7 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=yoing1158@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
@@ -19,7 +18,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I <br>- News Service : http://helllllo.duckdns.org/news</p>
+<p align="left">I'm ... from ....<br><br>보유 스킬<br>- Back-End: Java, Spring Boot, JSON <br>- Sever: AWS EC2, lightsail<br>- DB: MySQLWorkbench<br>- OS: <br>- News Service : http://helllllo.duckdns.org/news</p>
 
 ###
 
