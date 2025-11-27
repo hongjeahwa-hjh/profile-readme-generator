@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>보유 스킬<br>- Back-End: Java, Spring Boot, JSON <br>- Sever: AWS EC2, lightsail<br>- DB: MySQLWorkbench<br>- OS: <br>- News Service : http://helllllo.duckdns.org/news</p>
+<p align="left">저는 홍재화입니다. <br><br>보유 스킬<br>- Back-End: Java, Spring Boot, JSON <br>- Sever: AWS EC2, lightsail<br>- DB: MySQLWorkbench<br>- OS: <br>- News Service : http://helllllo.duckdns.org/news</p>
 
 ###
 
